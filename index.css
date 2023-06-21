@@ -1,0 +1,47 @@
+body {
+    background-image: url("https://www.businesslease.ro/wp-content/uploads/trecere-pod-min.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+.container {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    color: orange;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+#increment-btn {
+    background: #6b5b95;
+}
+
+#save-btn {
+    background: #d64161;
+}
+
